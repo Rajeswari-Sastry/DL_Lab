@@ -1,3 +1,4 @@
+# Commit separation: W1
 # W1 ----> Simple Linear Regression
 
 # import libraries
